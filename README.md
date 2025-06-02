@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey I'm Anjori Sarabhai! I'm a tech enthusiast and student who enjoys building data-driven solutions and exploring how intelligent systems can solve real-world problems. I’m passionate about automation, APIs, AI/ML concepts, and cloud technologies. I'm constantly learning and experimenting with new tools, one project at a time. I'm also an AWS Certified Cloud Practitioner and Microsoft Certified: Azure AI Fundamentals (AI-900), and I’m always open to collaborating on meaningful ideas and growing with the tech community.
 <br>
-🤝 I’m looking to collaborate on tech projects that make a difference or solve everyday problems.<br>💛 I’m looking for help with exploring deeper concepts in cloud architecture and scalable systems.<br>🌱 I’m currently learning full-stack development, backend workflows, and system design.<br>⚡ Fun fact: I once spent hours debugging a tiny typo — now I triple-check semicolons for fun.
+🤝 I’m looking to collaborate on tech projects that make a difference or solve everyday problems.<br>💛 I’m looking for support to dive deeper into advanced automation, data workflows, and smart system design.<br>🌱 I’m currently learning full-stack development, backend workflows, and system design.<br>⚡ Fun fact: I once spent hours debugging a tiny typo — now I triple-check semicolons for fun.
 
 
 ## 🌐 Socials:
